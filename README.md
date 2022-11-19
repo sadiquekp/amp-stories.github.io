@@ -4,6 +4,7 @@ This folder contains the files for the "Create a visual AMP Story" tutorial.
 
 ## Files included
 
+
 ```text
 amp-pets-story
   ├── assets/
